@@ -3,7 +3,7 @@
 ## Git-Referenzen
 
 - [Offizielle Git-Dokumentation](https://git-scm.com/doc) – Git-Dokumentation
-- [Pro Git Buch (kostenlos)](https://git-scm.com/book/en/v2) – Git-Buch für Einsteiger
+- [Git in 100 Sekunden](https://www.youtube.com/watch?v=hwP7WQkmECE&t=40s) – Git in 100 Sekunden (Youtube)
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) – Git Cheat Sheet als PDF
 
 ## Markdown-Referenzen
