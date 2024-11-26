@@ -42,5 +42,8 @@ git merge <branch-name>
 
 # Erstellt/wechselt zu einem neuen Branch
 git checkout -b <branch-name>
+```
 
-
+## Inhalte
+- [Branches in Git](branches.md)
+- [Linksammlung zu Git und Markdown](links.md)
