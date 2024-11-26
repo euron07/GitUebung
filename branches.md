@@ -7,7 +7,7 @@ Ein Branch in Git ist ein separater Entwicklungszweig. Er erlaubt es, parallel z
 ### Vorteile von Branches
 
 - **Unabhängige Entwicklung:** Man kann Änderungen vornehmen, ohne die Hauptarbeit zu stören.
-- **Einfache Zusammenführung:** Änderungen können jederzeit mit anderen Branches zusammengeführt werden (z. B. mit `merge`).
+- **Einfache Zusammenarbeit:** Änderungen können jederzeit mit anderen Branches zusammengeführt werden (z. B. mit `merge`).
 - **Experimentieren:** Branches sind perfekt perfekt für Experimente, weil sie leicht erstellt und gelöscht werden können.
 
 ---
