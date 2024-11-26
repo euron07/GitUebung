@@ -51,3 +51,11 @@ git checkout -b <branch-name>
 # Code - Review 
 
 Review von Eric Lücking am 26.11.2024
+
+---
+
+* Commit-Hash: ae0fa1dec4ed6745aa5e0d90defeab581398a358
+
+* Commit-ID: ae0fa1de
+
+---
