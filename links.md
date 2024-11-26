@@ -11,7 +11,7 @@
 - [Markdown Guide](https://www.markdownguide.org/) – Einführung in Markdown
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) – Markdown Cheatsheet für schnelle Hilfe
 
-## Nützliche Videos
+## Weitere Videos
 
 - [Was ist Git?](https://www.youtube.com/watch?v=8JJ101D3knE) – Git Einführung (YouTube)
 - [GitHub für Anfänger](https://www.youtube.com/watch?v=RGOj5yH7evk) – GitHub Tutorial für Einsteiger (YouTube)
